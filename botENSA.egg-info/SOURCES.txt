@@ -1,0 +1,5 @@
+setup.py
+botENSA.egg-info/PKG-INFO
+botENSA.egg-info/SOURCES.txt
+botENSA.egg-info/dependency_links.txt
+botENSA.egg-info/top_level.txt
